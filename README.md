@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Farevenwell 
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning about front end related technologies 
-- 🌱 Proficient in Mobile development using(Kotlin , Jetpack Compose)
+- 🌱 Proficient in Mobile development using(Kotlin , Jetpack Compose), (React Native, Expo Go)
 - 📫 How to reach me : johncris.dula@gmail.com
 
 <!---
