@@ -6,11 +6,15 @@
 
 ## GITHUB STATUS
 
-![Farevenwell's Stats](https://github-readme-stats.vercel.app/api?username=Farevenwell&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-![Farevenwell's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Farevenwell&theme=algolia&hide_border=true)
-
+<p align="start">
+<img src="https://github-readme-stats.vercel.app/api?username=Farevenwell&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="500" />
+</p>
 
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farevenwell&theme=algolia&hide_border=true" width="500" />
+</p>
+
+<p align="end">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farevenwell&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="500" />
 </p>
 
