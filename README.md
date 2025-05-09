@@ -22,6 +22,7 @@
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=farevenwell)
 
 ## GITHUB STATUS
 
@@ -36,6 +37,44 @@
 <p align="end">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farevenwell&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="500" />
 </p>
+
+
+## Programming Languages
+
+<table align="center" style="width:100%; table-layout:fixed;">
+  <tr>
+    <th style="width:33.3%; text-align:center;">Front-End</th>
+    <th style="width:33.3%; text-align:center;">Back-End</th>
+    <th style="width:33.3%; text-align:center;">Others</th>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align:top; width:33.3%;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+    </td>
+    <td align="center" style="vertical-align:top; width:33.3%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+    </td>
+    <td align="center" style="vertical-align:top; width:33.3%;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
+    </td>
+  </tr>
+</table>
+
 
 <!---
 Farevenwell/Farevenwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
