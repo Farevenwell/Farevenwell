@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Farevenwell 
+- 👋 Hi, I’m John Cris Dula
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning about front end related technologies 
 - 🌱 Proficient in Mobile development using(Kotlin , Jetpack Compose), (React Native, Expo Go)
